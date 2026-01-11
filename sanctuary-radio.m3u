@@ -1,0 +1,41 @@
+#EXTM3U
+#RADIOBROWSERUUID:9265f88b-3773-40f1-8f3a-7d0ab236d067
+#EXTINF:1,Sanctuary Radio (Retro 80s Channel)
+https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream2
+
+#RADIOBROWSERUUID:44ac363a-4008-44e0-8007-3104be536bcb
+#EXTINF:1,Sanctuary 80s
+http://66.94.113.88:8000/retro_ultra_hq
+
+#RADIOBROWSERUUID:c6723382-d7b8-45e2-99ad-40a4b2b3a009
+#EXTINF:1,Sanctuary - AAC
+https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
+
+#RADIOBROWSERUUID:09ff120f-3464-480c-99f9-caf55f016067
+#EXTINF:1,Sanctuary Radio's Dark Electro Channel
+https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream
+
+#RADIOBROWSERUUID:4d863a83-aac6-4c7b-8e84-054630fd8033
+#EXTINF:1,Sanctuary Radio (Dark Electro Channel)
+https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream
+
+#RADIOBROWSERUUID:acabcf1c-414c-47e4-9663-26b97d5254da
+#EXTINF:1,Sanctuary Radio's Dark Electro Channel LIVE (Sanctuary Radio Copyright 2019)
+http://192.111.140.6:9772/stream
+
+#RADIOBROWSERUUID:e136dc70-9ff3-4a6b-b134-5089a3eb3c2b
+#EXTINF:1,Sanctuary Radio (Retro 80s Channel)
+https://www.sanctuaryradio.com/site/80schannel.pls
+
+#RADIOBROWSERUUID:96222109-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Sanctuary - MP3
+https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3
+
+#RADIOBROWSERUUID:5f98d68a-be85-4e00-aad8-5d8cb66d75fc
+#EXTINF:1,RNZ Parliament MP3 (Sanctuary outside Parliament hours)
+http://radionz-ice.streamguys.com/parliament.mp3
+
+#RADIOBROWSERUUID:7481bf04-11b7-4595-aeb7-1d9913f3a5a4
+#EXTINF:1,Sanctuary Radio's Club Mix Channel
+https://www.sanctuaryradio.com/site/xchannel.pls
+
